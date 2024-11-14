@@ -15,7 +15,7 @@ public class FindTheLongestWordInAString {
                  max=words[i];
             }
         }
-        System.out.println("So lan tu trong chuoi la: " + max);
+        System.out.println("Tu dai nhat trong chuoi la: " + max);
     }
 }
   
